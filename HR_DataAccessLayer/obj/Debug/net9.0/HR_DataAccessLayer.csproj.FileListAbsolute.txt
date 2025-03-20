@@ -1,0 +1,15 @@
+C:\Users\Lulut\source\repos\HR_System\HR_DataAccessLayer\bin\Debug\net9.0\HR_DataAccessLayer.deps.json
+C:\Users\Lulut\source\repos\HR_System\HR_DataAccessLayer\bin\Debug\net9.0\HR_DataAccessLayer.runtimeconfig.json
+C:\Users\Lulut\source\repos\HR_System\HR_DataAccessLayer\bin\Debug\net9.0\HR_DataAccessLayer.dll
+C:\Users\Lulut\source\repos\HR_System\HR_DataAccessLayer\bin\Debug\net9.0\HR_DataAccessLayer.pdb
+C:\Users\Lulut\source\repos\HR_System\HR_DataAccessLayer\obj\Debug\net9.0\HR_DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Lulut\source\repos\HR_System\HR_DataAccessLayer\obj\Debug\net9.0\HR_DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lulut\source\repos\HR_System\HR_DataAccessLayer\obj\Debug\net9.0\HR_DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Lulut\source\repos\HR_System\HR_DataAccessLayer\obj\Debug\net9.0\HR_DataAccessLayer.AssemblyInfo.cs
+C:\Users\Lulut\source\repos\HR_System\HR_DataAccessLayer\obj\Debug\net9.0\HR_DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Lulut\source\repos\HR_System\HR_DataAccessLayer\obj\Debug\net9.0\HR_DataAccessLayer.sourcelink.json
+C:\Users\Lulut\source\repos\HR_System\HR_DataAccessLayer\obj\Debug\net9.0\HR_DataAccessLayer.dll
+C:\Users\Lulut\source\repos\HR_System\HR_DataAccessLayer\obj\Debug\net9.0\refint\HR_DataAccessLayer.dll
+C:\Users\Lulut\source\repos\HR_System\HR_DataAccessLayer\obj\Debug\net9.0\HR_DataAccessLayer.pdb
+C:\Users\Lulut\source\repos\HR_System\HR_DataAccessLayer\obj\Debug\net9.0\HR_DataAccessLayer.genruntimeconfig.cache
+C:\Users\Lulut\source\repos\HR_System\HR_DataAccessLayer\obj\Debug\net9.0\ref\HR_DataAccessLayer.dll

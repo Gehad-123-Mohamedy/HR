@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
@@ -14,9 +15,12 @@ namespace HR_DataAccessLayer.Models
         [ForeignKey("employee")]
         public int employeeID { get; set; }
         public virtual Employees? employee { get; set; }
+
         public DateTime? AttendenceTime { get; set; }
         public DateTime? LeaveTime { get; set; }
+        [Required]
         public DateOnly Day { get; set; }
-        public string Status { get; set; }
+        [Required]
+        public bool IsAttendant { get; set; }
     }
 }

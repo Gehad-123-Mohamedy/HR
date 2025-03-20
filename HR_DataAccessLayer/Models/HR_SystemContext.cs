@@ -24,6 +24,7 @@ namespace HR_DataAccessLayer.Models
         public virtual DbSet<Departments> Department { get; set; }
         public virtual DbSet<Employees> Employee { get; set; }
         public virtual DbSet<OfficialVaccations> officialVaccations { get; set; }
+        public virtual DbSet<Salary> Salary { get; set; }
 
     }
 }

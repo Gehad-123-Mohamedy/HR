@@ -1,0 +1,16 @@
+C:\Users\Lulut\source\repos\HR_System\HR_BusinessLayer\bin\Debug\net9.0\HR_BusinessLayer.deps.json
+C:\Users\Lulut\source\repos\HR_System\HR_BusinessLayer\bin\Debug\net9.0\HR_BusinessLayer.dll
+C:\Users\Lulut\source\repos\HR_System\HR_BusinessLayer\bin\Debug\net9.0\HR_BusinessLayer.pdb
+C:\Users\Lulut\source\repos\HR_System\HR_BusinessLayer\bin\Debug\net9.0\HR_DataAccessLayer.dll
+C:\Users\Lulut\source\repos\HR_System\HR_BusinessLayer\bin\Debug\net9.0\HR_DataAccessLayer.pdb
+C:\Users\Lulut\source\repos\HR_System\HR_BusinessLayer\obj\Debug\net9.0\HR_BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Lulut\source\repos\HR_System\HR_BusinessLayer\obj\Debug\net9.0\HR_BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lulut\source\repos\HR_System\HR_BusinessLayer\obj\Debug\net9.0\HR_BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Lulut\source\repos\HR_System\HR_BusinessLayer\obj\Debug\net9.0\HR_BusinessLayer.AssemblyInfo.cs
+C:\Users\Lulut\source\repos\HR_System\HR_BusinessLayer\obj\Debug\net9.0\HR_BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Lulut\source\repos\HR_System\HR_BusinessLayer\obj\Debug\net9.0\HR_BusinessLayer.sourcelink.json
+C:\Users\Lulut\source\repos\HR_System\HR_BusinessLayer\obj\Debug\net9.0\HR_Busin.048B3C84.Up2Date
+C:\Users\Lulut\source\repos\HR_System\HR_BusinessLayer\obj\Debug\net9.0\HR_BusinessLayer.dll
+C:\Users\Lulut\source\repos\HR_System\HR_BusinessLayer\obj\Debug\net9.0\refint\HR_BusinessLayer.dll
+C:\Users\Lulut\source\repos\HR_System\HR_BusinessLayer\obj\Debug\net9.0\HR_BusinessLayer.pdb
+C:\Users\Lulut\source\repos\HR_System\HR_BusinessLayer\obj\Debug\net9.0\ref\HR_BusinessLayer.dll
