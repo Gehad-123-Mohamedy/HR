@@ -1,7 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lulut\\source\\repos\\HR_System\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Lulut\\Desktop\\HR\\HR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4749B436-F622-4AAF-AF96-D63B234CC583}|HR_PresentationLayer\\HR_PresentationLayer.csproj|c:\\users\\lulut\\desktop\\hr\\hr\\hr_presentationlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4749B436-F622-4AAF-AF96-D63B234CC583}|HR_PresentationLayer\\HR_PresentationLayer.csproj|solutionrelative:hr_presentationlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4BC568-C236-424B-92DD-0B1C5E4627E3}|HR_DataAccessLayer\\HR_DataAccessLayer.csproj|c:\\users\\lulut\\desktop\\hr\\hr\\hr_dataaccesslayer\\models\\hr_systemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4BC568-C236-424B-92DD-0B1C5E4627E3}|HR_DataAccessLayer\\HR_DataAccessLayer.csproj|solutionrelative:hr_dataaccesslayer\\models\\hr_systemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HR_SystemContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lulut\\Desktop\\HR\\HR\\HR_DataAccessLayer\\Models\\HR_SystemContext.cs",
+              "RelativeDocumentMoniker": "HR_DataAccessLayer\\Models\\HR_SystemContext.cs",
+              "ToolTip": "C:\\Users\\Lulut\\Desktop\\HR\\HR\\HR_DataAccessLayer\\Models\\HR_SystemContext.cs",
+              "RelativeToolTip": "HR_DataAccessLayer\\Models\\HR_SystemContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:52:45.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lulut\\Desktop\\HR\\HR\\HR_PresentationLayer\\Program.cs",
+              "RelativeDocumentMoniker": "HR_PresentationLayer\\Program.cs",
+              "ToolTip": "C:\\Users\\Lulut\\Desktop\\HR\\HR\\HR_PresentationLayer\\Program.cs",
+              "RelativeToolTip": "HR_PresentationLayer\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:49:30.208Z",
+              "EditorCaption": ""
             }
           ]
         },

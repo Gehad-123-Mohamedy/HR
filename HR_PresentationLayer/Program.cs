@@ -19,8 +19,8 @@ namespace HR_PresentationLayer
             builder.Services.AddDbContext<HR_SystemContext>(options =>
             {
                 options.UseLazyLoadingProxies()
-                       .UseSqlServer(builder.Configuration.GetConnectionString("HR_SystemContext"),
-                       b => b.MigrationsAssembly("HR_DataAccessLayer"));
+                       .UseSqlServer(builder.Configuration.GetConnectionString("HRConnection")
+                    );
             });
 
 

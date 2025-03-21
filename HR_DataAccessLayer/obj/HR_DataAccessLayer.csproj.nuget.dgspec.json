@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lulut\\source\\repos\\HR_System\\HR_DataAccessLayer\\HR_DataAccessLayer.csproj": {}
+    "C:\\Users\\Lulut\\Desktop\\HR\\HR\\HR_DataAccessLayer\\HR_DataAccessLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lulut\\source\\repos\\HR_System\\HR_DataAccessLayer\\HR_DataAccessLayer.csproj": {
+    "C:\\Users\\Lulut\\Desktop\\HR\\HR\\HR_DataAccessLayer\\HR_DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lulut\\source\\repos\\HR_System\\HR_DataAccessLayer\\HR_DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Lulut\\Desktop\\HR\\HR\\HR_DataAccessLayer\\HR_DataAccessLayer.csproj",
         "projectName": "HR_DataAccessLayer",
-        "projectPath": "C:\\Users\\Lulut\\source\\repos\\HR_System\\HR_DataAccessLayer\\HR_DataAccessLayer.csproj",
+        "projectPath": "C:\\Users\\Lulut\\Desktop\\HR\\HR\\HR_DataAccessLayer\\HR_DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\Lulut\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lulut\\source\\repos\\HR_System\\HR_DataAccessLayer\\obj\\",
+        "outputPath": "C:\\Users\\Lulut\\Desktop\\HR\\HR\\HR_DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

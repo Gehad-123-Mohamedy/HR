@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L1pmgcnC9YY=",
+  "dgSpecHash": "6ykeCJ0M3bg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lulut\\source\\repos\\HR_System\\HR_PresentationLayer\\HR_PresentationLayer.csproj",
+  "projectFilePath": "C:\\Users\\Lulut\\Desktop\\HR\\HR\\HR_PresentationLayer\\HR_PresentationLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lulut\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Lulut\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

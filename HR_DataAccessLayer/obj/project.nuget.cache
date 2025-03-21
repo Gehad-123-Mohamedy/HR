@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ao2sv7GIIUk=",
+  "dgSpecHash": "+NX7DFlRF88=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lulut\\source\\repos\\HR_System\\HR_DataAccessLayer\\HR_DataAccessLayer.csproj",
+  "projectFilePath": "C:\\Users\\Lulut\\Desktop\\HR\\HR\\HR_DataAccessLayer\\HR_DataAccessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lulut\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Lulut\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
